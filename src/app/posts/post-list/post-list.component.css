@@ -3,10 +3,21 @@
   margin-top: 1rem;
 }
 
+mat-spinner {
+  margin: auto;
+}
+
 .info-text {
   text-align: center;
 }
 
-mat-spinner {
-  margin: auto;
+.post-image {
+  width: 50%;
+  height: auto;
+}
+
+.post-image img {
+  width: 50%;
+  height: auto;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
 }
